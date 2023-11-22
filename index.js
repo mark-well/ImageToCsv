@@ -18,7 +18,7 @@ function setup() {
 }
 
 function draw() {
-    background("#434343");
+    background(10);
 
     //Display the uploaded image
     if (img) image(img, 0, 0, width, height);
